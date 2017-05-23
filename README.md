@@ -8,7 +8,7 @@ ZONEVIEWER only pertains to elementary schools in the borough of Manhattan.
 # Functionalities
 ## View school locations and their zone polygons
 
-The initial view of the web page is a map displaying elementary schools and the zone polygons. When the user hovers over a school point, the school 'ATS Code' or 'DBN' as well as the School name are displayed in a pop up. Simultaneously the zone that is assigned to that school is highlighted.
+The initial view of the web page is a map displaying elementary schools and the zone polygons. When the user hovers over a school point, the school 'ATS Code' or 'DBN' as well as the School name are displayed in a pop up. Simultaneously the zone that is assigned to that school is highlighted. Both the school points and the zone polygons are geoJSON files added using jquery.
 
 ## View areas that are not eligible for transportation
 
