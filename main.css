@@ -1,16 +1,16 @@
-﻿.body {
+.body {
     margin: 0px 0px 0px 0px;
 }
 
 #mapid { 
-  height: 760px;
+  height: 960px;
   width: 75%;
   margin:0px 0px 0px 0px;
 }
 
 #menu {
   float: right;
-  height: 760px;
+  height: 960px;
   width:24%;
   background-color: lightgray;
   color: black;
@@ -29,11 +29,11 @@
 h2 {
   color: white;
   text-align: center;
-  font-size: 26px;
+  font-size: 36px;
 }
 
 button {
-    margin: 10px;
+    margin: 25px;
     display: inline-block;
     background-color: transparent;
     text-align: center;
@@ -41,21 +41,21 @@ button {
     border-color: white;
     padding: 5px;
     font-size: 18px;
-    width: 220px;
+    width: 320px;
     height: 125px;
     color:navy;
 
 }
 
 button:hover {
-    margin: 10px;
+    margin: 35px;
     display: inline-block;
     background-color: none;
     text-align: center;
     border-color: white;
     padding: 5px;
     font-size: 18px;
-    width: 220px;
+    width: 320px;
     height: 135px;
     color:#ff7800;
 
