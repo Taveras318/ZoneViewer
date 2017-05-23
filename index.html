@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+    <script src="//ajax.googleapis.com/ajax/libs/dojo/1.12.1/dojo/dojo.js"></script>
+    <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+    <script src="https://cdn.rawgit.com/bjornharrtell/jsts/gh-pages/1.2.0/jsts.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.0.0/dist/MarkerCluster.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.0.0/dist/leaflet.markercluster.js"></script>
+
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.11/themes/css/cartodb.css" />
+
+    <link rel="stylesheet" href="./leaflet.table-master/supagrid.css" />
+    <link rel="stylesheet" href="./leaflet.table-master/leaflet.table.css" />
+    <script src="./leaflet.table-master/supagrid.js" type="text/javascript"></script>
+    <script src="./leaflet.table-master/leaflet.table.js" type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="proj4.js"></script>
+    <script src="proj4leaflet.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/0.4.2/leaflet.draw.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/0.4.2/leaflet.draw.js"></script>
+    <script src="jquery-csv.js"></script>
+    <script type="text/javascript" src="dom-utils.js"></script>
+    <script data-main="scripts/main" src="scripts/require.js"></script>
+    <script src="loadCSVCopy.js" type="text/javascript"></script>
+    
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+
+    <div class='x' id="mapid"></div>
+    
+
+    <div class='x' id="menu">
+        <h2>MANHATTAN ELEMENTARY SCHOOL ZONES AND TRANSPORTATION ELIGIBILITY</h2>
+        <p>Choose a school zone to view by clicking on school location on map</p>
+        <p>Students within the walking radius for a school are not eligible for transportation, all others are</p>
+        <button id="draw_poly">Click to draw proposed zone polygon</button>
+        <button id="uploadcsv">Click to drag and drop a csv of student locations</button>
+        <button id="clear">Click to clear proposed polygon</button>
+        
+
+        <!--div>
+            <span>
+                Drag and drop on the map CSV file with coordinates
+            </span>
+        </div>
+        <input type="button" class="button" id="btnClearCSV" value="Clear" />
+        <div style="margin-top:10px;">
+            <form enctype="multipart/form-data" method="post" id="uploadForm">
+                <div class="field">
+                    <label class="file-upload">
+                        <span>Upload zipped shp</span>
+                        <input type="file" name="file" id="inFile" />
+                    </label>
+                </div>
+            </form>
+            <input type="button" class="button" id="btnClearSHP" value="Clear shp" />
+        </div>
+        <span class="file-upload-status" style="opacity:1;" id="upload-status"></span>
+        <div id="fileInfo"> </div>-->
+    </div>
+
+    
+
+    <script src="script.js"></script>
+    <script type="loadCSVCopy.js">setupDropZone();</script>
+    
+</body>
+<!--<script src="script.js"></script>-->
+</html>

@@ -1,0 +1,339 @@
+{
+  "type": "FeatureCollection",
+  "features": 
+  [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.9810301545604, 40.750372035101066 ]
+      },
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "Building_Code": "M104",
+        "School_Address": "330 EAST 21 STREET",
+        "DBN_X": -14.698086437020443,
+        "DBN_Y": 9584973231508702.0,
+        "DBN": "02M104",
+        "Y_Coordinate": 207378,
+        "ORIG_FID": 1,
+        "School_Name": "J.H.S. 104 Simon Baruch",
+        "Shared_Zone": "N",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 989506,
+        "Polygon_1": 94
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.9936064201058, 40.730723744765704 ]
+      },
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "Building_Code": "M131",
+        "School_Address": "100 HESTER STREET",
+        "DBN_X": -135.20513885121338,
+        "DBN_Y": 1.0526294133739814e+16,
+        "DBN": "02M131",
+        "Y_Coordinate": 200219,
+        "ORIG_FID": 2,
+        "School_Name": "M.S. 131",
+        "Shared_Zone": "N",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 986022,
+        "Polygon_1": 87
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.9578185971171, 40.78603377834643 ]
+      },
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "Building_Code": "M167",
+        "School_Address": "220 EAST 76 STREET",
+        "DBN_X": 76.35442434890885,
+        "DBN_Y": 1.1950406514447792e+16,
+        "DBN": "02M167",
+        "Y_Coordinate": 220373,
+        "ORIG_FID": 3,
+        "School_Name": "J.H.S. 167 Robert F. Wagner",
+        "Shared_Zone": "N",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 995931,
+        "Polygon_1": 93
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.9564256171646, 40.76809091403478 ]
+      },
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "Building_Code": "M271",
+        "School_Address": "645 MAIN STREET",
+        "DBN_X": 170.90226988128657,
+        "DBN_Y": 1.0025473256558076e+16,
+        "DBN": "02M217",
+        "Y_Coordinate": 213836,
+        "ORIG_FID": 4,
+        "School_Name": "P.S./I.S. 217 Roosevelt Island",
+        "Shared_Zone": "N",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 996320,
+        "Polygon_1": 110
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.99234850901352, 40.750642328291725 ]
+      },
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "Building_Code": "M868",
+        "School_Address": "10 East 15th Street",
+        "DBN_X": 126.07007412393017,
+        "DBN_Y": 1.3306809593155576e+16,
+        "DBN": "02M297",
+        "Y_Coordinate": 207476,
+        "ORIG_FID": 5,
+        "School_Name": "M.S. 297",
+        "Polygon_2": 94,
+        "Shared_Zone": "N",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 986370,
+        "Polygon_1": 88
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.92544803184244, 40.88004849977164 ]
+      },
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "Building_Code": "M052",
+        "School_Address": "650 ACADEMY STREET",
+        "DBN_X": 129.43560075850337,
+        "DBN_Y": 1.1332005798018502e+16,
+        "DBN": "06M052",
+        "Y_Coordinate": 254632,
+        "ORIG_FID": 6,
+        "School_Name": "J.H.S. 052 Inwood",
+        "Polygon_2": 398,
+        "Shared_Zone": "N",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 1004866,
+        "Polygon_1": 104
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.93097601585916, 40.86380334799942 ]
+      },
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "Building_Code": "M143",
+        "School_Address": "511 WEST 182ND STREET",
+        "DBN_X": -63.70334013211656,
+        "DBN_Y": 1.0978267163975192e+16,
+        "DBN": "06M143",
+        "Y_Coordinate": 248712,
+        "ORIG_FID": 7,
+        "School_Name": "J.H.S. 143 Eleanor Roosevelt",
+        "Shared_Zone": "06M143,06M346,06M348",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 1003342,
+        "Polygon_1": 107
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.93682627883061, 40.87073156857954 ]
+      },
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "Building_Code": "M187",
+        "School_Address": "349 CABRINI BOULEVARD",
+        "DBN_X": -162.49172602531138,
+        "DBN_Y": 1.2836155911490004e+16,
+        "DBN": "06M187",
+        "Y_Coordinate": 251235,
+        "ORIG_FID": 8,
+        "School_Name": "P.S./I.S. 187 Hudson Cliffs",
+        "Shared_Zone": "N",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 1001722,
+        "Polygon_1": 106
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.93006717232043, 40.87544305421288 ]
+      },
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "Building_Code": "M218",
+        "School_Address": "4600 BROADWAY",
+        "DBN_X": -96.84357659739872,
+        "DBN_Y": 1.0060317735698896e+16,
+        "DBN": "06M218",
+        "Y_Coordinate": 252953,
+        "ORIG_FID": 9,
+        "School_Name": "I.S. 218 Salome Urena",
+        "Shared_Zone": "06M218,06M322",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 1003590,
+        "Polygon_1": 105
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.93580146297371, 40.853631528380284 ]
+      },
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "Building_Code": "M090",
+        "School_Address": "21 JUMEL PLACE",
+        "DBN_X": -23.57347079206492,
+        "DBN_Y": 1.0095139163795324e+16,
+        "DBN": "06M319",
+        "Y_Coordinate": 245005,
+        "ORIG_FID": 10,
+        "School_Name": "M.S. 319 - Maria Teresa",
+        "Polygon_2": 401,
+        "Shared_Zone": "06M319,06M324",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 1002010,
+        "Polygon_1": 400
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.93006717232043, 40.87544305421288 ]
+      },
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "Building_Code": "M218",
+        "School_Address": "4600 BROADWAY",
+        "DBN_X": -153.97672021000633,
+        "DBN_Y": 1.0200923387565124e+16,
+        "DBN": "06M322",
+        "Y_Coordinate": 252953,
+        "ORIG_FID": 11,
+        "School_Name": "Middle School 322",
+        "Shared_Zone": "06M218,06M322",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 1003590,
+        "Polygon_1": 105
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.93580146297371, 40.853631528380284 ]
+      },
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "Building_Code": "M090",
+        "School_Address": "21 JUMEL PLACE",
+        "DBN_X": -121.97629726550765,
+        "DBN_Y": 1.0272150002239022e+16,
+        "DBN": "06M324",
+        "Y_Coordinate": 245005,
+        "ORIG_FID": 12,
+        "School_Name": "M.S. 324 - Patria Mirabal",
+        "Polygon_2": 401,
+        "Shared_Zone": "06M319,06M324",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 1002010,
+        "Polygon_1": 400
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.93724941077654, 40.85147498801046 ]
+      },
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "Building_Code": "M164",
+        "School_Address": "401 WEST 164 STREET",
+        "DBN_X": 117.95583583552157,
+        "DBN_Y": 1.0416315179427032e+16,
+        "DBN": "06M328",
+        "Y_Coordinate": 244219,
+        "ORIG_FID": 13,
+        "School_Name": "Community Math & Science Prep (M.S. 328)",
+        "Shared_Zone": "N",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 1001610,
+        "Polygon_1": 108
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.9422840193748, 40.84802477801452 ]
+      },
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "Building_Code": "M814",
+        "School_Address": "504 WEST 158TH STREET",
+        "DBN_X": -117.25774924847782,
+        "DBN_Y": 1.1094344735513548e+16,
+        "DBN": "06M346",
+        "Y_Coordinate": 242961,
+        "ORIG_FID": 14,
+        "School_Name": "Community Health Academy of the Heights",
+        "Shared_Zone": "06M143,06M346,06M348",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 1000218,
+        "Polygon_1": 107
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.93097601585916, 40.86380334799942 ]
+      },
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "Building_Code": "M143",
+        "School_Address": "511 WEST 182ND STREET",
+        "DBN_X": 86.03810622200305,
+        "DBN_Y": 1.117274799306512e+16,
+        "DBN": "06M348",
+        "Y_Coordinate": 248712,
+        "ORIG_FID": 15,
+        "School_Name": "Washington Heights Expeditionary Learning School",
+        "Shared_Zone": "06M143,06M346,06M348",
+        "BUFF_DIST": 5280.0,
+        "X_Coordinate": 1003342,
+        "Polygon_1": 107
+      }
+    }
+  ]}

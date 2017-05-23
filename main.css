@@ -1,0 +1,62 @@
+﻿.body {
+    margin: 0px 0px 0px 0px;
+}
+
+#mapid { 
+  height: 760px;
+  width: 75%;
+  margin:0px 0px 0px 0px;
+}
+
+#menu {
+  float: right;
+  height: 760px;
+  width:24%;
+  background-color: lightgray;
+  color: black;
+  text-align: center;
+}
+
+.x,p {
+  display: inline-block;
+  font-family:'Roboto Condensed';
+  font-size: 23px;
+  color: slategrey;
+  margin: 5px;
+
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 26px;
+}
+
+button {
+    margin: 10px;
+    display: inline-block;
+    background-color: transparent;
+    text-align: center;
+    border: solid;
+    border-color: white;
+    padding: 5px;
+    font-size: 18px;
+    width: 220px;
+    height: 125px;
+    color:navy;
+
+}
+
+button:hover {
+    margin: 10px;
+    display: inline-block;
+    background-color: none;
+    text-align: center;
+    border-color: white;
+    padding: 5px;
+    font-size: 18px;
+    width: 220px;
+    height: 135px;
+    color:#ff7800;
+
+}
